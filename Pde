@@ -1,18 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8B0Lpzd/1000021166.png" group-title="🐥 KIDS CHANNEL", Cartoon Network
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="🐥 KIDS CHANNEL", DISCOVERY KIDS
-https://dplus.gammacdn.workers.dev/videos/113.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F3XcWbG/20240803-103747.png" group-title="🐥 KIDS CHANNEL", GUBBARE
-https://epiconvh.s.llnwi.net/gubbare/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="🐥 KIDS CHANNEL", RONGEEN TV
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy15tEFePYQeCrh2Qhgq5SKECDCg-E2ay7rs0wMfpFDtjvhTbOD5D33SG&s=10" group-title="🐥 KIDS CHANNEL", TOON GOOGLE
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQySsUe6YVUstmCI7sEmf1VGCO59yn72GSUlXGwrIJu6_991hFBQaET_Cxb&s=10" group-title="🐥 KIDS CHANNEL", Pogo Hindi
-https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="🐥 KIDS CHANNEL", KIDS CREATION
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png" group-title="🐥 KIDS CHANNEL", KIDS FLIX
@@ -29,34 +20,9 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 https://livetranscode.com/Minimax/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png" group-title="🐥 KIDS CHANNEL", PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BjWTMLy/images-1.png" group-title="🐥 KIDS CHANNEL",Me TV
-https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="🐥 KIDS CHANNEL", pogo
-https://www.its-ferdos-alom.top/sp/mac/script.m3u8?id=2766
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="🐥 KIDS CHANNEL", Nick
-https://fifabd.xyz/OPLLX/play.m3u8?id=150482|Referer=RANAPK
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="🐥 KIDS CHANNEL", Nick jr.
-https://fifabd.xyz/OPLLX/play.m3u8?id=153156|Referer=RANAPK
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="🐥 KIDS CHANNEL", Nick FHD
-https://fifabd.xyz/OPLLX/play.m3u8?id=76722|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="🐥 KIDS CHANNEL", Wow comedy
-https://fifabd.xyz/OPLLX/play.m3u8?id=311774|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="🐥 KIDS CHANNEL", Tom & Jerry
-https://fifabd.xyz/OPLLX/play.m3u8?id=329247|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="🐥 KIDS CHANNEL", Wow action
-https://fifabd.xyz/OPLLX/play.m3u8?id=314753|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="🐥 KIDS CHANNEL", Discovery kids
-https://fifabd.xyz/OPLLX/play.m3u8?id=76723|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="🐥 KIDS CHANNEL", Disney HD
-https://fifabd.xyz/OPLLX/play.m3u8?id=167551|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="🐥 KIDS CHANNEL", Cartoon Network
-https://fifabd.xyz/OPLLX/play.m3u8?id=150478|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="🐥 KIDS CHANNEL", Nick - Sonic
-https://fifabd.xyz/OPLLX/play.m3u8?id=34011|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="🐥 KIDS CHANNEL", Sony yay
-https://fifabd.xyz/OPLLX/play.m3u8?id=245959|Referer=RANAPK
+
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="🐥 KIDS CHANNEL", NICK JUNIOR 
 https://mhdtvstream.com/live.php?id=544&extension=.m3u8|Referer=https://mhdtvstream.com/
