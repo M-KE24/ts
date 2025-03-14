@@ -215,12 +215,6 @@ https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG8gVeX1VSbAKutyrw-KCLQMq6kONH7uwSxOdCgwgmjK_Sct7D1QODXYg&s=10" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ " , HBO ASIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=7b68345171d80113ab39a3b93feca1ac:68b2a625957fbfd2c96eadc262fb731c
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/66f5472ed9405210740fed1e_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 
 
