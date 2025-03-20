@@ -701,6 +701,34 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
 #KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
 
+#EXTINF:-1 tvg-id="korean-drama-active" tvg-name="Korean Drama Active" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/csetwc.png" tvg-chno="korean-drama-active" group-title="Entertainment",Korean Drama Active
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/korean-drama-active/drmLicense
+https://otttv.co.in/d2h/livestream/korean-drama-active/manifest.mpd
+#EXTINF:-1 tvg-id="movies-now-hd" tvg-name="Movies Now HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/wthfwe.jpeg" tvg-chno="movies-now-hd" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",Movies Now HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/movies-now-hd/drmLicense
+https://otttv.co.in/d2h/livestream/movies-now-hd/manifest.mpd
+#EXTINF:-1 tvg-id="mnx-hd" tvg-name="MNX HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/vunjev.jpeg" tvg-chno="mnx-hd" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",MNX HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mnx-hd/drmLicense
+https://otttv.co.in/d2h/livestream/mnx-hd/manifest.mpd
+#EXTINF:-1 tvg-id="mn-plus-hd" tvg-name="MN Plus HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/leazcc.jpeg" tvg-chno="mn-plus-hd" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",MN Plus HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mn-plus-hd/drmLicense
+https://otttv.co.in/d2h/livestream/mn-plus-hd/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
@@ -908,7 +936,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
-
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="🐥 KIDS CHANNEL", NICK JUNIOR 
+https://mhdtvstream.com/live.php?id=544&extension=.m3u8|Referer=https://mhdtvstream.com/
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="🐥 KIDS CHANNEL", NICKELODEON JR.
+https://mhdtvstream.com/live.php?id=548&extension=.m3u8|Referer=https://mhdtvstream.com/
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="🐥 KIDS CHANNEL", NICK HD+
+https://mhdtvstream.com/live.php?id=1226&extension=.m3u8|Referer=https://mhdtvstream.com/
 
 #EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="DISNEY JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="🐥 KIDS CHANNEL",Disney Jr.ca
 #KODIPROP:inputstream.adaptive.manifest_type=dash
