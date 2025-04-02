@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/awiouy/webgrabplus/refs/heads/master/config/siteini.pack/Philippines/skycable.com.channels.xml" billed-msg="WELCOME TO VIP PLAYLIST" url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/awiouy/webgrabplus/refs/heads/master/config/siteini.pack/Philippines/skycable.com.channels.xml" billed-msg="WELCOME TO VIP PLAYLIST" tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/9/9b/Pinoy_Big_Brother_2021_logo.jpg/revision/latest?cb=20211024232220" channel-number="44" group-title="🇵🇭 LOCAL CHANNEL", PBB ALL-ACCESS LIVE STREAM not/247
 #KODIPROP:inputstreamaddon=inputstream.adaptive
