@@ -7,21 +7,21 @@
 #KODIPROP:inputstream.adaptive.license_key=8438e8495659425585a09749cd6bc39a:9d92b12db092fe6bdf2207ef7a2a9e65
 https://abslive.akamaized.net/dash/live/2112806/pbbmain/manifest.mpd|Referer=https://www.iwanttfc.com/
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy15tEFePYQeCrh2Qhgq5SKECDCg-E2ay7rs0wMfpFDtjvhTbOD5D33SG&s=10" group-title="🐥 KIDS CHANNEL", TOON GOOGLE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy15tEFePYQeCrh2Qhgq5SKECDCg-E2ay7rs0wMfpFDtjvhTbOD5D33SG&s=10" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥", TOON GOOGLE
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
-#EXTINF:-1 tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png" group-title="🐥 KIDS CHANNEL", KIDS FLIX
+#EXTINF:-1 tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥", KIDS FLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2hvLR05/Beani-Kids.png" group-title="🐥 KIDS CHANNEL", Beani Kids
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2hvLR05/Beani-Kids.png" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥", Beani Kids
 https://streams.sofast.tv/ptnr-yupptv/title-BEANI-KIDS-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ae504cae-b81f-49e6-8b40-71d7c0843589/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://spacetoon.com/assets/imgs/1stoon.png" group-title="🐥 KIDS CHANNEL", Spacetoon
+#EXTINF:-1 tvg-logo="https://spacetoon.com/assets/imgs/1stoon.png" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥", Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" group-title="🐥 KIDS CHANNEL", Jungle Book
+#EXTINF:-1 tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥", Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png" group-title="🐥 KIDS CHANNEL", Zoo Moo
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥", Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/kj2RJWnjyrB5bha8lv7xfvlcj1gHPUIc03tR-S1fbbPCoZEYm1vHDZ0M_VH2V-d-kUiROSVHyvw=s900-c-k-c0x00ffffff-no-rj" group-title="🐥 KIDS CHANNEL", MINIMAX
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/kj2RJWnjyrB5bha8lv7xfvlcj1gHPUIc03tR-S1fbbPCoZEYm1vHDZ0M_VH2V-d-kUiROSVHyvw=s900-c-k-c0x00ffffff-no-rj" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥", MINIMAX
 https://livetranscode.com/Minimax/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png" group-title="🐥 KIDS CHANNEL", PBS KIDS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥", PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 
@@ -177,7 +177,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
-#EXTINF:-1 tvg-id="trvlchannelph" tvg-name="TRVL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="📚 EDUCATIONAL | DOCUMENTARY", TRAVEL CHANNEL
+#EXTINF:-1 tvg-id="trvlchannelph" tvg-name="TRVL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title=" 🇵🇭 CABLE EDUCATIONAL | DOCUMENTARY 📚", TRAVEL CHANNEL
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -431,7 +431,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:0 CUID="23" tvg-name="18. PTV 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOCU5RfFBChLXzBJBzMJ4lfEg0MYnlPWqyxQ&s" group-title="🧾 NEWS",18. PTV 4
+#EXTINF:0 CUID="23" tvg-name="18. PTV 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOCU5RfFBChLXzBJBzMJ4lfEg0MYnlPWqyxQ&s" group-title=" 🇵🇭 CABLE NEWS 🧾",18. PTV 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -757,52 +757,52 @@ http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDoma
 
 
 
-#EXTINF:-1 tvg-id="Lifetime" ch-number="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="🙅 ENTERTAINMENT",Lifetime HD
+#EXTINF:-1 tvg-id="Lifetime" ch-number="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title=" 🇵🇭 CABLE ENTERTAINMENT ‼️",Lifetime HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
 
-EXTINF:0 CUID="143" tvg-name="150. DREAMWORKS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZIOEq63Wg1MYFUHGSpi4YYxXCCzO-_BMoaf7U-A1HlAD5JaCN_1EIO4&s=10" group-title="🐥 KIDS CHANNEL",150. DREAMWORKS
+EXTINF:0 CUID="143" tvg-name="150. DREAMWORKS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZIOEq63Wg1MYFUHGSpi4YYxXCCzO-_BMoaf7U-A1HlAD5JaCN_1EIO4&s=10" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥",150. DREAMWORKS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5bfe3554df2abcd37afe130a7e1d310:dccbdf043ac43d18be0b3eb43a582876
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
 
-#EXTINF:0 CUID="143" tvg-name="150. DREAMWORKS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZIOEq63Wg1MYFUHGSpi4YYxXCCzO-_BMoaf7U-A1HlAD5JaCN_1EIO4&s=10" group-title="🐥 KIDS CHANNEL",150. DREAMWORKS TAGALOG 
+#EXTINF:0 CUID="143" tvg-name="150. DREAMWORKS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZIOEq63Wg1MYFUHGSpi4YYxXCCzO-_BMoaf7U-A1HlAD5JaCN_1EIO4&s=10" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥",150. DREAMWORKS TAGALOG 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 
-#EXTINF:0 CUID="144" tvg-name="151. CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="🐥 KIDS CHANNEL",151. CARTOON NETWORK
+#EXTINF:0 CUID="144" tvg-name="151. CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥",151. CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
 https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 
-EXTINF:0 CUID="145" tvg-name="152. Nick Jr." tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nick-Jr.-Logo-2009-present-700x394.png" group-title="🐥 KIDS CHANNEL",152. Nick Jr.
+EXTINF:0 CUID="145" tvg-name="152. Nick Jr." tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nick-Jr.-Logo-2009-present-700x394.png" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥",152. Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tKu+6Vtps+gKDRQScshw2w", "kid":"+mUiDJ925CQXOJnfUzptEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="🐥 KIDS CHANNEL",Disney Channel
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥",Disney Channel
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="🐥 KIDS CHANNEL", NICK JUNIOR 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥", NICK JUNIOR 
 https://mhdtvstream.com/live.php?id=544&extension=.m3u8|Referer=https://mhdtvstream.com/
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="🐥 KIDS CHANNEL", NICKELODEON JR.
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥", NICKELODEON JR.
 https://mhdtvstream.com/live.php?id=548&extension=.m3u8|Referer=https://mhdtvstream.com/
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="🐥 KIDS CHANNEL", NICK HD+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥", NICK HD+
 https://mhdtvstream.com/live.php?id=1226&extension=.m3u8|Referer=https://mhdtvstream.com/
 
-#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="DISNEY JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="🐥 KIDS CHANNEL",Disney Jr.ca
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="DISNEY JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥",Disney Jr.ca
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=221e176f3dfabb84ff506d65dd93b09f:6a97b8d4beed4d4b1697c1488706c6ca
 https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd
 
-#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-name="DISNEY XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="🐥 KIDS CHANNEL",Disney XD
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-name="DISNEY XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥",Disney XD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:fad936249e036830aa5bef41bec05326
@@ -810,12 +810,12 @@ https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/o
 
 
 
-EXTINF:0 CUID="146" tvg-name="153. Nickelodeon" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nickelodeon-Logo.png" group-title="🐥 KIDS CHANNEL",153. Nickelodeon
+EXTINF:0 CUID="146" tvg-name="153. Nickelodeon" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nickelodeon-Logo.png" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥",153. Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
 
-#EXTINF:-1 group-title="🐥 KIDS CHANNEL" ch-number="472" tvg-id="Animax" tvg-chno="472" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png", 153. Animax HD
+#EXTINF:-1 group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥" ch-number="472" tvg-id="Animax" tvg-chno="472" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png", 153. Animax HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -823,23 +823,23 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 
-EXTINF:-1 tvg-id="AstroCeria" group-title="🐥 KIDS CHANNEL" tvg-logo="https://static.wikia.nocookie.net/l..._(2019).png/revision/latest?cb=20201018231230" ch-number="611",161. Astro Ceria
+EXTINF:-1 tvg-id="AstroCeria" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥" tvg-logo="https://static.wikia.nocookie.net/l..._(2019).png/revision/latest?cb=20201018231230" ch-number="611",161. Astro Ceria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
 
-EXTINF:-1 tvg-id="MoonbugKids" group-title="🐥 KIDS CHANNEL" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",162. Moonbug Kids
+EXTINF:-1 tvg-id="MoonbugKids" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",162. Moonbug Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 
-EXTINF:-1 tvg-id="CBeebies" group-title="🐥 KIDS CHANNEL" ch-number="620" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png",163. CBeebies
+EXTINF:-1 tvg-id="CBeebies" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥" ch-number="620" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png",163. CBeebies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default.mpd
 
 
-#EXTINF:-1 tvg-id="" ch-number="3" group-title="🏆 PPV | UFC 🥊" tvg-logo="", WWE NETWORK 
+#EXTINF:-1 tvg-id="" ch-number="3" group-title="  🇵🇭 CABLE PPV | UFC 🥊 🏆" tvg-logo="", WWE NETWORK 
 #KODIPROP:#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
@@ -848,7 +848,7 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsPGFMG64E0v86Nqm7DheefFbE3Nx1ZS4Aww&s" group-title="🏆 PPV | UFC 🥊", TNT SPORTS 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsPGFMG64E0v86Nqm7DheefFbE3Nx1ZS4Aww&s" group-title="  🇵🇭 CABLE PPV | UFC 🥊 🏆", TNT SPORTS 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -856,28 +856,28 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxM7W5sifY817bTaM9CPMZSYWu4NPGwZAsA&usqp=CAU" group-title="🏆 PPV | UFC 🥊", TNT SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxM7W5sifY817bTaM9CPMZSYWu4NPGwZAsA&usqp=CAU" group-title="  🇵🇭 CABLE PPV | UFC 🥊 🏆", TNT SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4R1CjAeCjmAehJn4g7dzScZj5FwS7daoSQ&s" group-title="🏆 PPV | UFC 🥊", TNT SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4R1CjAeCjmAehJn4g7dzScZj5FwS7daoSQ&s" group-title="  🇵🇭 CABLE PPV | UFC 🥊 🏆", TNT SPORTS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="🏆 PPV | UFC 🥊", TNT SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="  🇵🇭 CABLE PPV | UFC 🥊 🏆", TNT SPORTS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJEsAfxkX3BaHIsP40KRI-qURsKK1OqootMHV6RjpvPghxiwbnAGF9cWhr&s=10" group-title="🏆 PPV | UFC 🥊", TNT SPORTS 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJEsAfxkX3BaHIsP40KRI-qURsKK1OqootMHV6RjpvPghxiwbnAGF9cWhr&s=10" group-title="  🇵🇭 CABLE PPV | UFC 🥊 🏆", TNT SPORTS 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -885,7 +885,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="FightNetwork" tvg-logo="https://i.ibb.co/YB4Z45g/fightnetwork.png" group-title="🏆 PPV | UFC 🥊", FIGHT NETWORK
+#EXTINF:-1 tvg-id="FightNetwork" tvg-logo="https://i.ibb.co/YB4Z45g/fightnetwork.png" group-title="  🇵🇭 CABLE PPV | UFC 🥊 🏆", FIGHT NETWORK
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
 EXTINF:-1 tvg-id="The Golf Channel HDTV" tvg-name="NBC GOLF" tvg-logo="https://i.ibb.co/Rykhd2s/nbcgolf.png" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ " , NBC GOLF CHANNEL
@@ -907,14 +907,14 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="🏆 PPV | UFC 🥊", SSC1
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="  🇵🇭 CABLE PPV | UFC 🥊 🏆", SSC1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="🏆 PPV | UFC 🥊", SSC2
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="  🇵🇭 CABLE PPV | UFC 🥊 🏆", SSC2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -922,7 +922,7 @@ https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.
 https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="🏆 PPV | UFC 🥊", SSC3
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="  🇵🇭 CABLE PPV | UFC 🥊 🏆", SSC3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -930,7 +930,7 @@ https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.
 https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="🏆 PPV | UFC 🥊", SSC4
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="  🇵🇭 CABLE PPV | UFC 🥊 🏆", SSC4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -938,7 +938,7 @@ https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.
 https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="🏆 PPV | UFC 🥊", SSC5
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="  🇵🇭 CABLE PPV | UFC 🥊 🏆", SSC5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -947,7 +947,7 @@ https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-#EXTINF:-1 tvg-id="wwenetwhd" tvg-name="WWE Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvCx-0lWpUvmUNnKJWH8xJVNau-dU-Odfui_8ZBN3e64HtsSEVE84HKK21&s=10" group-title="🏆 PPV | UFC 🥊",WWE Network
+#EXTINF:-1 tvg-id="wwenetwhd" tvg-name="WWE Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvCx-0lWpUvmUNnKJWH8xJVNau-dU-Odfui_8ZBN3e64HtsSEVE84HKK21&s=10" group-title="  🇵🇭 CABLE PPV | UFC 🥊 🏆",WWE Network
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMLnQ1wzZf64E0Yuwkr7QWGMaVnjzmTn1BA&s", 112. NBA TV PHILIPPINES 
@@ -958,12 +958,12 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 
 
-#EXTINF:-1 group-title="🏆 PPV | UFC 🥊" tvg-logo="https://tv.assets.pressassociation.io/08d5adde-34fa-50ce-94d1-58bdf387d054.png", Eurosport
+#EXTINF:-1 group-title="  🇵🇭 CABLE PPV | UFC 🥊 🏆" tvg-logo="https://tv.assets.pressassociation.io/08d5adde-34fa-50ce-94d1-58bdf387d054.png", Eurosport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
-#EXTINF:-1 group-title="🧾 NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP_UB8dC0fpuVlkJnX8K8Sysv-REYN77PVpw&s", CNA NEWS
+#EXTINF:-1 group-title=" 🇵🇭 CABLE NEWS 🧾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP_UB8dC0fpuVlkJnX8K8Sysv-REYN77PVpw&s", CNA NEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
 https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
@@ -3611,140 +3611,140 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8370d940521074c
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="101.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",TV1 
+#EXTINF:-1 tvg-id="101.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",TV1 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="102.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",TV2
+#EXTINF:-1 tvg-id="102.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",TV2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="103.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",TV3
+#EXTINF:-1 tvg-id="103.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",TV3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Edoa02jQys/+SCS2s14itw", "kid":"DLeYDp0diVf5opPtljQkEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="148.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/8TV_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",8TV 
+#EXTINF:-1 tvg-id="148.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/8TV_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",8TV 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lY6ctzieIJSN5aVC0nKezw", "kid":"J4KHJ/CjoLT7xmg3jM+MEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="149.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV9_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",TV9 
+#EXTINF:-1 tvg-id="149.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV9_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",TV9 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FyYINQnVcLXeRzCrnzOMww", "kid":"5QlzW1+JdQ1CrOJBDq1yEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="147.astro" tvg-logo="https://didik.tv/images/logotv2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL", DIDIK TV KPM 
+#EXTINF:-1 tvg-id="147.astro" tvg-logo="https://didik.tv/images/logotv2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL", DIDIK TV KPM 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="122.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVS.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",TVS
+#EXTINF:-1 tvg-id="122.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVS.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",TVS
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="114.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Al-Hijrah 
+#EXTINF:-1 tvg-id="114.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Al-Hijrah 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yEdSMcCdwbY5iGl2tvx1dQ", "kid":"YPICsWQH/t2ONpwyr1fdEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="146.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Okey_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Okey
+#EXTINF:-1 tvg-id="146.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Okey_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Okey
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="113.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAura.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Aura 
+#EXTINF:-1 tvg-id="113.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAura.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Aura 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="108.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Citra 
+#EXTINF:-1 tvg-id="108.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Citra 
 https://linears-playback.astro.com.my/vsg/41CJTs6aYGh76t6znU5NkYNnkiTG2uPbSs9anAbROG7mc=fKwl/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="106.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Oasis 
+#EXTINF:-1 tvg-id="106.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Oasis 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="410.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Premier
+#EXTINF:-1 tvg-id="410.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Premier
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="105.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Prima
+#EXTINF:-1 tvg-id="105.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Prima
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="112.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Rania 
+#EXTINF:-1 tvg-id="112.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Rania 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="104.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Ria 
+#EXTINF:-1 tvg-id="104.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Ria 
 https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i71ajPxBQ-twMNoaSd7IX8EQ=9E11/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="107.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Warna 
+#EXTINF:-1 tvg-id="107.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Warna 
 https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAcGwJByAU4N2R_D_obiAFxc=wQUh/dash-wv/jitp-dashisowm/2402/default_ott.mpd
 
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hCVpDEhE+7AbXq5wa8L3xg", "kid":"2xozj3HUAYb1mXywhbs/EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="335.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",CCTV4
+#EXTINF:-1 tvg-id="335.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",CCTV4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"P1k1XhXu0bshnqFofVXPuw", "kid":"pkLdS/PqeC4ZICre+2BLEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="321.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",CCM
+#EXTINF:-1 tvg-id="321.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",CCM
 https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="309.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Celestial Movies 
+#EXTINF:-1 tvg-id="309.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Celestial Movies 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yKD35puzHf1HXaJvxsYAOw", "kid":"YFB+8NycgT1fjHsiKUEvEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="333.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Hua_Hee_Dai_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Hua Hee Dai 
+#EXTINF:-1 tvg-id="333.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Hua_Hee_Dai_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Hua Hee Dai 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="300.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",iQIYI 
+#EXTINF:-1 tvg-id="300.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",iQIYI 
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1006/default_ott.mpd 
 #####https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/Wvhzqn6I8mPIPGyq8ridg", "kid":"UXwwjvZBmxdn6a5xDIl3EA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-id="325.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Phoenix
+#EXTINF:-1 tvg-id="325.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Phoenix
 https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"i563q3GWpCXZq2GKXJ+Z2Q", "kid":"lylVipv/jZR3S/ovAZoTEA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-id="326.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Phoenix_News_Info_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Phoenix Info
+#EXTINF:-1 tvg-id="326.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Phoenix_News_Info_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Phoenix Info
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kzric7Fmuqj7ID7vGnrb3w", "kid":"BxRIaQoOybJ+ssGn1eAwEA" } ], "type":"temporary" } 
-#EXTINF:-1tvg-id="305.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Classic_2022.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",TVB Classic HD
+#EXTINF:-1tvg-id="305.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Classic_2022.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",TVB Classic HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r3EKBv1nl1uZ20pHp1e4Sw", "kid":"+mKcNkDOUzx1VQn2f3XmEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="317.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",TVB Entertainment 
+#EXTINF:-1 tvg-id="317.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",TVB Entertainment 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7PtFSy8+I4xbXcGW5PkfuA", "kid":"424Mve8Gd7SNulxj6MqvEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="319.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_XingHe_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",TVB Xing He 
+#EXTINF:-1 tvg-id="319.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_XingHe_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",TVB Xing He 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
 
@@ -3754,72 +3754,72 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="116.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Colors Hindi 
+#EXTINF:-1 tvg-id="116.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Colors Hindi 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"URkFvxkUdLQStOwRdRWnnA", "kid":"5GNU+znCjllWvJRqwqBQEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="222.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors-Tamil_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Colors Tamil 
+#EXTINF:-1 tvg-id="222.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors-Tamil_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Colors Tamil 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"c2SM66N1FkWSbUVCHIXZJw", "kid":"jnhjqOdwsNcuvkpoQ3tkEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="216.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KTV.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",KTV 
+#EXTINF:-1 tvg-id="216.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KTV.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",KTV 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0ByBBQ36swnGvn5g0Dwtgg", "kid":"rzVgin1LE9EVjC721sGgEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="221.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Star_Vijay_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Star Vijay
+#EXTINF:-1 tvg-id="221.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Star_Vijay_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Star Vijay
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XrN2KxpGMaC5jiXiPO8Bkw", "kid":"hZ9bIFTEBz6PDaRj0gi5EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="214.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Adithiya_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Sun Adithya
+#EXTINF:-1 tvg-id="214.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Adithiya_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Sun Adithya
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cmMEcIxCn2E+wtxTYZ1vdg", "kid":"4+G+lObBk/oheHzoQ122EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="217.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun-Life.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Sun Life 
+#EXTINF:-1 tvg-id="217.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun-Life.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Sun Life 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2gpwFI4SbrQMzgJmV1OJbQ", "kid":"vqypRh98oNWLpSn+0ue2EA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-id="212.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun_Music_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Sun Music 
+#EXTINF:-1 tvg-id="212.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun_Music_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Sun Music 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rAh5IEchjKKgHyu9EtkFAQ", "kid":"ChccwbuQ94ggzyXMVfDuEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="215.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun-News.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Sun News 
+#EXTINF:-1 tvg-id="215.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun-News.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Sun News 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"699Wuko1YsyCBTopUpdUMg", "kid":"gwdv8vaNF2S1WcQyq0nKEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="211.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun_TV_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Sun TV 
+#EXTINF:-1 tvg-id="211.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun_TV_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Sun TV 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cjf/CLNuE66j019PJXL6OQ","kid":"tyLZVr/GpFCM2R3micm4EA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="241.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_BoxOffice_Movies_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Thangathirai
+#EXTINF:-1 tvg-id="241.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_BoxOffice_Movies_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Thangathirai
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5125/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="201.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Vaanavil_v2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Vaanavil
+#EXTINF:-1 tvg-id="201.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Vaanavil_v2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Vaanavil
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wSi75B6U0Vp/jML2JTpUsg", "kid":"nESvi1lLYVf1XTwxvWecEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="203.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Vellithirai_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Vellithirai 
+#EXTINF:-1 tvg-id="203.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Vellithirai_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Vellithirai 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IPOS5aECG+aPwyvNuew61A", "kid":"25ZIOQB2LiM6p4MEV6DTEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="251.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Zee Cinema 
+#EXTINF:-1 tvg-id="251.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Zee Cinema 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Znoz9NW7NYfy1SCYhoOerA", "kid":"DU4+fawtWLk7+BmnL+jVEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="223.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeTamil_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Zee Tamil 
+#EXTINF:-1 tvg-id="223.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeTamil_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Zee Tamil 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
 
@@ -3827,26 +3827,26 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6txiarlZJV96uIHAPTBv4g", "kid":"aSlQ05hpySr5qd3qRTwNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="392.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",KBS World 
+#EXTINF:-1 tvg-id="392.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",KBS World 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"taOoAISBIMhDrg+mjAnCYQ","kid":"qkiyi9cj+RIUiH327Z+tEA"}],"type":"temporary" }
-#EXTINF:-1 tvg-id="396.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",K+
+#EXTINF:-1 tvg-id="396.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",K+
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="393.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ONE_HD_v2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",One  
+#EXTINF:-1 tvg-id="393.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ONE_HD_v2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",One  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="395.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvN_2021.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",tvN 
+#EXTINF:-1 tvg-id="395.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvN_2021.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",tvN 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="416.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",tvN Movies 
+#EXTINF:-1 tvg-id="416.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",tvN Movies 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
 
@@ -3854,42 +3854,42 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="404.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Boo   
+#EXTINF:-1 tvg-id="404.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Boo   
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="412.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Cinemax  
+#EXTINF:-1 tvg-id="412.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Cinemax  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Hbo  
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Hbo  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eWE5ugWiq0Jfl4x/2YtDcg", "kid":"XWAOtwlE1oHCbB9I++YfEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Hbo Hits   
+#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Hbo Hits   
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Hbo Family   
+#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Hbo Family   
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U3tNDHMRkqO50xIbKZDvug", "kid":"i7MdiZKf+O9W3tJSZGtHEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="100.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Heroes.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Heroes
+#EXTINF:-1 tvg-id="100.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Heroes.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Heroes
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5114/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="401.astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HitsMoviesV2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Hits Movies    
+#EXTINF:-1 tvg-id="401.astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HitsMoviesV2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Hits Movies    
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="413.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Showcase Movies      
+#EXTINF:-1 tvg-id="413.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Showcase Movies      
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 
@@ -3898,67 +3898,67 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zwz/tje4FZiie9aw2Q1lqA", "kid":"NGufQeKTN0jIhh+Cky4BEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="709.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Afn  
+#EXTINF:-1 tvg-id="709.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Afn  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="701.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Axn  
+#EXTINF:-1 tvg-id="701.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Axn  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2x7iuJlLkarGUEnvPkk3hw", "kid":"Ivxbr0euO2MivCRCBruyEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="714.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CI_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",CI
+#EXTINF:-1 tvg-id="714.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CI_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",CI
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h944zz7Su81dibY+Vxv+IQ", "kid":"DiHaMEopKYzsof39HnHiEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="716.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DMAX_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Dmax
+#EXTINF:-1 tvg-id="716.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DMAX_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Dmax
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LcKnYXveKrABNu5onFbXiQ", "kid":"LRPIFN9KDCzkiLLtoFLXEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="708.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Food Network 
+#EXTINF:-1 tvg-id="708.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Food Network 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="715.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HGTV_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",HGTV 
+#EXTINF:-1 tvg-id="715.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HGTV_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",HGTV 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NssgY79TONGNMWVzcbFYFw", "kid":"H+kmhadYRNxUydrBJIAlEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="706.astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Hits.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Hits  
+#EXTINF:-1 tvg-id="706.astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Hits.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Hits  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pNSb2ozSm6KIjHMrTn2dYw", "kid":"Qwfe9qKb7AgvjJPx+Y5ZEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="702.astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HITSNOW.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Hits Now
+#EXTINF:-1 tvg-id="702.astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HITSNOW.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Hits Now
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="703.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Lifetime.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Lifetime 
+#EXTINF:-1 tvg-id="703.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Lifetime.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Lifetime 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sS4fiUEpxRfciEW6ruvsig", "kid":"9CkpLcdE8oQ1UwhWFXesEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="717.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Lifestyle 
+#EXTINF:-1 tvg-id="717.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Lifestyle 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IvlkptaSfM26SC53XN/xkA", "kid":"OsJUKk9750ZjPbB2R0UXEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="718.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MTV_Live.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",MTV Live 
+#EXTINF:-1 tvg-id="718.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MTV_Live.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",MTV Live 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="707.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",TLC
+#EXTINF:-1 tvg-id="707.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",TLC
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="712.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Warner TV     
+#EXTINF:-1 tvg-id="712.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Warner TV     
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
 
 
@@ -3966,42 +3966,42 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="615.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Cartoon Network     
+#EXTINF:-1 tvg-id="615.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Cartoon Network     
 https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3mxf6q5faWO0s5LdyLaneA", "kid":"UMaZxETl+A2sr8TJlmfYEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="620.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",CBeebies    
+#EXTINF:-1 tvg-id="620.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",CBeebies    
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="611.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Ceria     
+#EXTINF:-1 tvg-id="611.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Ceria     
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3MvfBDrEPRi+Cz60Olgodg", "kid":"tb/jVU3yq803r+Ewp+HTEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="612.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Dreamworks      
+#EXTINF:-1 tvg-id="612.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Dreamworks      
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"irCTravcNDuHNLfs8K6hGg", "kid":"48t0mXEHhusQX6t7UkWZEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="618.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Moonbug_V1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Moonbug Kids     
+#EXTINF:-1 tvg-id="618.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Moonbug_V1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Moonbug Kids     
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="616.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Nickelodeon  
+#EXTINF:-1 tvg-id="616.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Nickelodeon  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tKu+6Vtps+gKDRQScshw2w", "kid":"+mUiDJ925CQXOJnfUzptEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="617.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_10000498_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Nickelodeon Junior 
+#EXTINF:-1 tvg-id="617.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_10000498_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Nickelodeon Junior 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rtncAgOHJarb0Me9FwkkCw", "kid":"iCm49NkdJjDzmMZ+2UwjEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TutorTV.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",TUTOR TV 
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TutorTV.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",TUTOR TV 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
 
 
@@ -4009,107 +4009,107 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="801.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Arena 
+#EXTINF:-1 tvg-id="801.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Arena 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="802.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Arena 2 
+#EXTINF:-1 tvg-id="802.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Arena 2 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5099
-#EXTINF:-1 tvg-id="803.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Arena Bola
+#EXTINF:-1 tvg-id="803.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Arena Bola
 https://linears-playback.astro.com.my/vsg/41Sxt3DWhZdej265n7aXR92ASfe1AGS2eDLwdBfxaKp0Y=P4QA/dash-wv/jitp-dashisowm/5099/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5100
-#EXTINF:-1 tvg-id="804.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Arena Bola 2
+#EXTINF:-1 tvg-id="804.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Arena Bola 2
 https://linears-playback.astro.com.my/vsg/41W9CerGIQW-wTXKgMyFzl6jrgwzRGToeevegnO-9bYQo=3gJG/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="811.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Astro SuperSport 
+#EXTINF:-1 tvg-id="811.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Astro SuperSport 
 https://linears-playback.astro.com.my/vsg/41JpWADi6WU_jVc8PqEw8eqRLpEjMU6ZiQedYenLa2Vyo=1n0-/dash-wv/jitp-dashisowm/601/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="812.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Astro SuperSport 2 
+#EXTINF:-1 tvg-id="812.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Astro SuperSport 2 
 https://linears-playback.astro.com.my/vsg/41cdUbtCHhS4CST_0SQ5LEm7PxwOQPIVXVg8JVXk_DvFk=-oZD/dash-wv/jitp-dashisowm/2104/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="813.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Astro SuperSport 3  
+#EXTINF:-1 tvg-id="813.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Astro SuperSport 3  
 https://linears-playback.astro.com.my/vsg/41SxZSqxQoUXNO2Zb4SsAtYZgOjzvyE-bLJSEo1tq7r5U=zHbc/dash-wv/jitp-dashisowm/2701/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="814.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Astro SuperSport 4  
+#EXTINF:-1 tvg-id="814.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Astro SuperSport 4  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"gFWGBqE6mdLFQ4ctiJnO0A", "kid":"icEMfvCvFFvn1uiN7AkLEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="808.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Astro Supersport Plus
+#EXTINF:-1 tvg-id="808.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Astro Supersport Plus
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eupDzZPCSqmDTstJhPf9Wg", "kid":"IvvvHBzXJek5fsFkVfCCEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="805.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSuperSportUHD.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Astro UHD 
+#EXTINF:-1 tvg-id="805.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSuperSportUHD.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Astro UHD 
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="824.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Cricket 
+#EXTINF:-1 tvg-id="824.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Cricket 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KGObz7XL7o/5yjmPz1v80A", "kid":"cFurXmRbbXyVWIspUg+BEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="822.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Golf 
+#EXTINF:-1 tvg-id="822.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Golf 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bld//MSTW6JK/0xMndaEbQ", "kid":"m/61BoclYX261jOEc9ptEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="823.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Premier Sports  
+#EXTINF:-1 tvg-id="823.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Premier Sports  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0OeU48/1ZO0scgoJjrF3xw", "kid":"TbI6Qbq/6a/CIqWMWYKDEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="820.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",EuroSports 
+#EXTINF:-1 tvg-id="820.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",EuroSports 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PEUIrzSIRBB/XgJqT9axbg", "kid":"GmVRiatcSesjUwjCsannEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="818.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",beIN Sports   
+#EXTINF:-1 tvg-id="818.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",beIN Sports   
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UQKxKqx3VsZdy0ahAdlg0w", "kid":"OcF1WB4jfv+VWWB+ubI8EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="817.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",beIN Sports 2 
+#EXTINF:-1 tvg-id="817.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",beIN Sports 2 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BCohvyNspymx40PtbgpjNw", "kid":"IMiE747Saydi+LGnjy0ZEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="819.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",beIN Sports 3 
+#EXTINF:-1 tvg-id="819.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",beIN Sports 3 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dYgj5Oq7bkyMA20HPbRrjA", "kid":"wOGASqHZ/ZxBxBvw9hpfEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="816.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",SPOTV 
+#EXTINF:-1 tvg-id="816.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",SPOTV 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7W1n2VPRSwJrJgLPiEZXfg", "kid":"Xv0m2lABNjtNb6SpyBKtEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",SPOTV 2 
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",SPOTV 2 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nNXA0eVMIuA12I3Twd/ITA", "kid":"AQy7nPGgHq04Bwcw04vHEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="815.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/W-Sport.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",W-Sport 
+#EXTINF:-1 tvg-id="815.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/W-Sport.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",W-Sport 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MFKMTviClU5XB80QAdZhIQ", "kid":"DLxNO0+9mvUSrLJIi7QpEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="WWENetwork" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",WWE Network 
+#EXTINF:-1 tvg-id="WWENetwork" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",WWE Network 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
 
@@ -4118,47 +4118,47 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bDxJgROr/99FTck1MZp5TQ", "kid":"sfvQh055I/WwWSmgQqoGEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="513.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Al Jazeera News
+#EXTINF:-1 tvg-id="513.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Al Jazeera News
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="501.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Awani  
+#EXTINF:-1 tvg-id="501.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Awani  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OaJ6osyEoptmX8xNv5xUtg", "kid":"FAa78hjKFPlnA0/PSr93EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="502.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Bernama
+#EXTINF:-1 tvg-id="502.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Bernama
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eaBEsw1k9cN+bUXVA8uygA", "kid":"2xNDVFriXd7PjfpEIvNUEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="517.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BloombergTV_2022.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Bloomberg 
+#EXTINF:-1 tvg-id="517.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BloombergTV_2022.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Bloomberg 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nnBhYfAvuZy2ktKWVHBJTg", "kid":"/GbvDuNbW6Y53A4TxfipEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="503.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CGTN_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",CGTN 
+#EXTINF:-1 tvg-id="503.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CGTN_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",CGTN 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RCdYhO45TQUIH945X/bkFQ", "kid":"+BKurmvluSSoGBtRLV15EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="515.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",CNA 
+#EXTINF:-1 tvg-id="515.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",CNA 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YCgnqHDUmGLRoj8pEpV7TA", "kid":"w6OPE0BTF1mhype8XYDIEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="516.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CNBC_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",CNBC 
+#EXTINF:-1 tvg-id="516.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CNBC_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",CNBC 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v34bl1VcSst0VfcRsqn/Fg", "kid":"G2GKKRzs5EyYRd3fxP2bEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="511.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CNN_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",CNN 
+#EXTINF:-1 tvg-id="511.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CNN_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",CNN 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sNrddLcT5LKf0n4UfK5xMw", "kid":"S+9/wby2vX8ofe+UDjjLEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="514.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Sky News
+#EXTINF:-1 tvg-id="514.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Sky News
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
 
 
@@ -4167,42 +4167,42 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TU1NncQb5D9SiklAz2bxTA", "kid":"1RmfFROgKG4Dja6PfYIAEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="556.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Animal Planet
+#EXTINF:-1 tvg-id="556.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Animal Planet
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uxvbJ8xf4exjfSV5mTRMww", "kid":"2/Yv8IBLxbjVI+8AnXhjEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="554.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC-EARTH_2023.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",BBC Earth 
+#EXTINF:-1 tvg-id="554.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC-EARTH_2023.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",BBC Earth 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="552.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Discovery 
+#EXTINF:-1 tvg-id="552.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Discovery 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w6WOyGfMJYKeH76JOEQlUw", "kid":"P/AvzYDC4yMMUq5w/pA0EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="553.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Discovery Aisa 
+#EXTINF:-1 tvg-id="553.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Discovery Aisa 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L7Oas/VTM9X6PoMOv5nsFg", "kid":"ktNKhPro5U3gqClimUG+EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="551.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Global Treker 
+#EXTINF:-1 tvg-id="551.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Global Treker 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="555.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/History_2022_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",History 
+#EXTINF:-1 tvg-id="555.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/History_2022_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",History 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d1plTAYQgRrQIjKaaIhN4Q", "kid":"FovYFUaGOf5FKLS/AUHzEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="550.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature_190x80_TV-Guide.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Love Nature 
+#EXTINF:-1 tvg-id="550.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature_190x80_TV-Guide.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Love Nature 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btySxJvoTKei8ye+r7zK5g", "kid":"Gv3K9BmL/TIAWERp/D5REA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="549.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",Love Nature 4K
+#EXTINF:-1 tvg-id="549.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",Love Nature 4K
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_ott.mpd
 
 
@@ -4213,202 +4213,202 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",211
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",211
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OKaMdJiYEUzwYp134kaoiA", "kid":"aRkWFkvisa5shS8ZkNH+EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",212
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",212
 https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zWvwx6Kok34KBDF2IYkUnw", "kid":"x/o5esQqmkxjdaNlPbhHEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",607
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",607
 https://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dteB6K/4Pv5TOVrXhOfSA", "kid":"oMHwDxR3ez2vSpEsQxDxEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",700
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",700
 https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0OeU48/1ZO0scgoJjrF3xw", "kid":"TbI6Qbq/6a/CIqWMWYKDEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",2100
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",2100
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",2109
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",2109
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jacsqFAaTetL/Dgf4XN+9A", "kid":"BighV9pOj5diOnDtAX+tEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",2400
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",2400
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nV4DYJS7d8uviGfTJyxm0A", "kid":"id5xzzm+CUbeyCjt/4TQEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",2507
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",2507
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pGTh8vkE1A8yNaVzBOcteA", "kid":"4qR1iFTd+D8ej0ZaPT2JEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",2602
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",2602
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",2701 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",2701 
 https://linears-playback.astro.com.my/vsg/41SxZSqxQoUXNO2Zb4SsAtYS4REalED_VKZiHpsVFzZgk=S5vz/dash-wv/jitp-dashisowm/2701/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F24pOLznldHIVVmiRAR39w", "kid":"KGrvTo2F22bgX+Slx5nkEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",2706
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",2706
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OvWAx7IYQAMBefTcrSJ8ig", "kid":"XMXAH2YVlZUkX+iuZ5ELEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",2711
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",2711
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xI3psWg75WH6Y6tUc5GXXQ", "kid":"fSujjMSI5TX6QgWUkzV8EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5013
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5013
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zxSpJpdIEqyq3MLJhvftTQ", "kid":"azmFlWlsLWCaihw9wnr3EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5024
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5024
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZTcqMUjjpiK0Ip/YbqThYA", "kid":"+ZitF1ADufbUD7XJLxniEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5049
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5049
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"padw2I5EA3cvNuIxPo4y0A", "kid":"//WSeiJJ8JT6N3PDkClAEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5056 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5056 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CtHnstcf1zpcGZc55TTaSw", "kid":"iLMk5+djUyt3DYTTcNfIEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5070
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5070
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"gFWGBqE6mdLFQ4ctiJnO0A", "kid":"icEMfvCvFFvn1uiN7AkLEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5076
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5076
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wx746KwRObmFrDZzACtwFA", "kid":"NLgxqXRQHRBvZUXp+T3gEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5085
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5085
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Rj2HfDtqnFlIuQRatW1t0Q", "kid":"feQDGn4QebL/OI2hHbmnEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5086
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5086
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5086/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JlC/KXhPdgNVb6vANhXfSA", "kid":"Cytx+xXoJ9eJl37ejuiYEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5098
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5098
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6fKn4EJ/Y7qabQxl2vQPmg", "kid":"ekpB3aNZlA5sjC/xIj13EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5103
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5103
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5103/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"61ss7EhVFCFvfCXRAquKEw", "kid":"SaENBhDnALSyDdHJGi/DEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5107
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5107
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5107/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugi+dn4aXol3fmimmYqMGQ", "kid":"Hs4+y0FpnoVcbcmig5CCEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5108
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5108
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5111
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5111
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5111
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U3tNDHMRkqO50xIbKZDvug", "kid":"i7MdiZKf+O9W3tJSZGtHEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5114
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5114
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5114/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"e1hLaqhp+i0vY5+89g/f9Q", "kid":"ddc6qKHAKt9X3etBAteUEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5121
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5121
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5121/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5128
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5128
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OOHP/K9ZVcOEa4CgYvn/wA", "kid":"QoCMnWq0M1XBLWPxJsqoEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5130
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5130
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5130/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"P1FhZV/drnDdwBwPodzrcQ", "kid":"1Ma/0ftoqxu70waUtF6xEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5131
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5131
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5131/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aFlkFpvPc4ALiWQ537u3LA", "kid":"4EMDYI8KJxo/8DgS9OouEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5132
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5132
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5132/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4Ztpf97cWwzwrVBo3hPQqQ", "kid":"lPrhfk0V4c0L3HztCW+lEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5150
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5150
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5150/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xqCbHYAdNjHNd9pIZXjd9g", "kid":"FgTsETWMbIgQK++Ktb3KEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5151
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5151
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5151/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fHqYI2x9zOQ/EmkZAGC4oA", "kid":"1q/iRrPbBn34N/r8BneNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5152
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5152
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5152/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ocORwepRV1bVJyly1rvXKQ", "kid":"ZKjwhJDZHe2J+XfYWHjREA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5153
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5153
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5153/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KI5/icnIcm2IB1Pdr55w7Q", "kid":"jLZ7f6NN5hUylHJUMJ1NEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",5154
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",5154
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5154/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Ff90rhBkxfL7ANKZX6iJVQ", "kid":"yxiUWSXmXUEfu5htclMQEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",9986
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",9986
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",9987
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",9987
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Xtcnw/KLrFmqPlkU9a1FXA", "kid":"irAU3gPDGoSoNVg8NIpeEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",9988
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",9988
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="ASTRO CHANNEL",9989
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE ASTRO CHANNEL",9989
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_ott.mpd
 
 ===================NBA LEAGUE PASS==========
