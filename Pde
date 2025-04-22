@@ -4452,6 +4452,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/1.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVYatCtpG6H0BMhXn7qkSjsmqJVwbtmbVGg&s" group-title="🏀 NBA LEAGUE PASS S0",ESPN LIVE (NBA)
+#EXTVLCOPT:http-origin=https://nbawebcast.app/
+#EXTVLCOPT:http-referrer=https://nbawebcast.app//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/5.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVSs0eJBmqL7COLcRsOu1wnZhrHggVrR5Qn2Yq8ZRqkj7rCm0LiFQQ-TIO&s=10" group-title="🏀 NBA LEAGUE PASS S0",NBA LEAGUE PASS 1
 #EXTVLCOPT:http-origin=https://nbawebcast.app/
 #EXTVLCOPT:http-referrer=https://nbawebcast.app//
