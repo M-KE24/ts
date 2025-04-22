@@ -698,30 +698,7 @@ https://otttv.co.in/d2h/livestream/mnx-hd/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mn-plus-hd/drmLicense
 https://otttv.co.in/d2h/livestream/mn-plus-hd/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
-#EXTINF:-1 tvg-id="cinemachi1" tvg-name="CINEMACHI" tvg-logo="https://i.imgur.com/IPKiteM.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",Cinemachi Actiom
-http://202.147.193.244/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
-#EXTINF:-1 tvg-id="cinemachi2" tvg-name="CINEMACHI ACTION" tvg-logo="https://i.imgur.com/uGEC5a6.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",Cinemachi Action
-http://202.147.193.244/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
-#EXTINF:-1 tvg-id="cinemachi3" tvg-name="CINEMACHI MAX" tvg-logo="https://i.imgur.com/us4M9Hd.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",Cinemachi Max
-http://202.147.193.244/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
-#EXTINF:-1 tvg-id="cinemachi4" tvg-name="CINEMACHI XTRA" tvg-logo="https://i.imgur.com/NJvBNc2.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",Cinemachi Xtra
-http://202.147.193.244/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
-#EXTINF:-1 tvg-id="cinemachi5" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.imgur.com/zzixR9p.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",Cinemachi Kids
-http://202.147.193.244/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 
 
@@ -750,10 +727,7 @@ https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/
 #KODIPROP:inputstream.adaptive.license_key=0020c970519e635452e81e2496c919ca:87114e92d957670e78e6d38113c340c5
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc130gttyz)/master_2min.mpd
 
-#EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-name="Hallmark Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hallmark-family-us.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",Hallmark Family
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0020103077f01f7343b03e497a636169:3c38d1ab5a1011bb1d0d96232ac0ed27
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc131pdfws)/master_2min.mpd
+
 
 #EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-name="Hallmark Mystery" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hallmark-mystery-us.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",Hallmark Mystery
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
