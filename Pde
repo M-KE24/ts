@@ -8,11 +8,40 @@
 #KODIPROP:inputstream.adaptive.license_key=8438e8495659425585a09749cd6bc39a:9d92b12db092fe6bdf2207ef7a2a9e65
 https://abslive.akamaized.net/dash/live/2112806/pbbmain/manifest.mpd|Referer=https://www.iwanttfc.com/
 
-#EXTINF:-1 tvg-logo="https://www.allegiantstadium.com/assets/img/CS-044043_WM41_Individual_Event_Tickets_On-Sale_Now_Stadium_600x340-d598da5148.jpg" group-title="🇵🇭 CABLE PPV | UFC 🥊 🏆", WrestleMania 41
-#EXTVLCOPT:http-origin=https://newzar.xyz/
-#EXTVLCOPT:http-referrer=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium105/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Net252020.png" group-title="🇵🇭 LOCAL CHANNEL",Net25
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393131363337323232353030:56783536726130576e5a4171564c3741
+http://143.44.136.112:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/TV_MARIA_logo.png" group-title="🇵🇭 LOCAL CHANNEL",TV Maria
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa3998b9a4de40659725ebc5151250d6:998f1294b122bbf1a96c1ddc0cbb229f
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/tvmaria_prd.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cf1TV5k.png" group-title="🇵🇭 LOCAL CHANNEL",Sinag Pilipinas
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363732373132323433313638333236:51665a4f37716a4c584c634e46764f34
+http://143.44.136.112:6910/001/2/ch00000090990000001324/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/DZRH_logo_2021.png" group-title="🇵🇭 LOCAL CHANNEL",DZRH
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323236373936303238393632:74576436426946764a6b4e5734456e37
+http://143.44.136.112:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+
+#EXTINF:-1 group-title="🇵🇭 CABLE KIDS CHANNEL 🐥"  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK[INDIHOME]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+
+#EXTINF:-1 group-title="🇵🇭 CABLE KIDS CHANNEL 🐥"  tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",NICK JR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy15tEFePYQeCrh2Qhgq5SKECDCg-E2ay7rs0wMfpFDtjvhTbOD5D33SG&s=10" group-title=" 🇵🇭 CABLE KIDS CHANNEL 🐥", TOON GOOGLE
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
@@ -376,6 +405,22 @@ https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/ind
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="celestialmovie" tvg-name="CELESTIAL MOVIE PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIU7sM7fa62h-6q0nDURog-OAFubgFU-RUA&usqp=CAU" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",40. CELESTIAL MOVIES PINOY
 http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️"  tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",TVN MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
+
+#EXTINF:-1 group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️"  tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png",GALAXY PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
+ 
+#EXTINF:-1 group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️"  tvg-logo="https://images.indihometv.com/logo_galaxy_small.png",GALAXY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
+
 
 EXTINF:0 CUID="8" tvg-name="06. KAPAMILYA CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKm2Lrh11LXGy-bF04OpzO3M4xMrbRigxnTzbIFP5gMYKsSmAkwZnw_wsu&s=10" group-title="🇵🇭 LOCAL CHANNEL",06. KAPAMILYA CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
