@@ -4463,31 +4463,34 @@ https://live.webcastserver.online/hdstream/embed/1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/5.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKKooF6X9oYFCYZOYAKkJOYzahPDmRHyQxMg&s" group-title="🏀 NBA LEAGUE PASS S0",April 27 2025 Update
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKKooF6X9oYFCYZOYAKkJOYzahPDmRHyQxMg&s" group-title="🏀 NBA LEAGUE PASS S0",April 28 2025 Update
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://gjcjgvjh/hdstream/embed/161.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVSs0eJBmqL7COLcRsOu1wnZhrHggVrR5Qn2Yq8ZRqkj7rCm0LiFQQ-TIO&s=10" group-title="🏀 NBA LEAGUE PASS S0", Miami Heat vs Cleveland Cavaliers 1:00am
-#EXTVLCOPT:http-origin=https://nbawebcast.app/
-#EXTVLCOPT:http-referrer=https://nbawebcast.app//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/147.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVSs0eJBmqL7COLcRsOu1wnZhrHggVrR5Qn2Yq8ZRqkj7rCm0LiFQQ-TIO&s=10" group-title="🏀 NBA LEAGUE PASS S0", Memphis Grizzlies vs Oklahoma city Thunder 3:30am
-#EXTVLCOPT:http-origin=https://nbawebcast.app/
-#EXTVLCOPT:http-referrer=https://nbawebcast.app//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/146.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVSs0eJBmqL7COLcRsOu1wnZhrHggVrR5Qn2Yq8ZRqkj7rCm0LiFQQ-TIO&s=10" group-title="🏀 NBA LEAGUE PASS S0", LA Clippers vs Denver Nuggets 6:00am
-#EXTVLCOPT:http-origin=https://nbawebcast.app/
-#EXTVLCOPT:http-referrer=https://nbawebcast.app//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/162.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVSs0eJBmqL7COLcRsOu1wnZhrHggVrR5Qn2Yq8ZRqkj7rCm0LiFQQ-TIO&s=10" group-title="🏀 NBA LEAGUE PASS S0", Golden State Warriors vs Houston Rockets 8:38am
-#EXTVLCOPT:http-origin=https://nbawebcast.app/
-#EXTVLCOPT:http-referrer=https://nbawebcast.app//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/159.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA PLAYOFF", Detroit Pistons vs New York Knicks 1:00
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/33471?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/33589/load-playlist
+
+#EXTINF:-1 tvg-logo="" group-title="NBA PLAYOFFS", LOS ANGELES LAKERS VS MINNESOTA TIMBERWOLVES 3:00
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/33472?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/33590/load-playlist
+
+
+#EXTINF:-1 tvg-logo="" group-title="NBA PLAYOFFS", Orlando Magic vs Boston Celtics 6:00
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/33472?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/33591/load-playlist
+
+
+#EXTINF:-1 tvg-logo="" group-title="NBA PLAYOFF", INDIANA PACERS VS MILWAUKEE BUCKS 9:00
+#EXTVLCOPT:http-origin=https://googlapisapi.com
+#EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/33470?newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://x3.xplorebrav.space/playlist/33592/load-playlist
