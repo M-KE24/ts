@@ -4502,13 +4502,13 @@ https://live.webcastserver.online/hdstream/embed/162.m3u8
 #EXTVLCOPT:http-origin=https://googlapisapi.com
 #EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/33631?newa=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://x3.xplorebrav.space/playlist/33631/load-playlist
+http://xtream-ie.org:80/live/HONORTV/bshsrhthrh/5521?.mpd?token-745579298484938662905703877397479837774938748937839827738377374837373839489393773849392928763552652783939
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="🏀 NBA LEAGUE PASS S0", Detroit Pistons vs New York Knicks 7:30am
 #EXTVLCOPT:http-origin=https://googlapisapi.com
 #EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/33633?newa=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://x3.xplorebrav.space/playlist/33633/load-playlist
+http://xtream-ie.org:80/live/HONORTV/bshsrhthrh/5522?.mpd?token-745579298484938662905703877397479837774938748937839827738377374837373839489393773849392928763552652783939
 
 
 
@@ -4516,13 +4516,13 @@ https://x3.xplorebrav.space/playlist/33633/load-playlist
 #EXTVLCOPT:http-origin=https://googlapisapi.com
 #EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/33632?newa=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://x3.xplorebrav.space/playlist/33632/load-playlist
+http://xtream-ie.org:80/live/HONORTV/bshsrhthrh/5523?.mpd?token-745579298484938662905703877397479837774938748937839827738377374837373839489393773849392928763552652783939
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="🏀 NBA LEAGUE PASS S0", LA Clippers vs Denver Nuggets 10:00am
 #EXTVLCOPT:http-origin=https://googlapisapi.com
 #EXTVLCOPT:http-referrer=https://googlapisapi.com/new-stream-embed/33634?newa=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://x3.xplorebrav.space/playlist/33634/load-playlist
+http://xtream-ie.org:80/live/HONORTV/bshsrhthrh/5524?.mpd?token-745579298484938662905703877397479837774938748937839827738377374837373839489393773849
 
 
 
